@@ -1,2 +1,2 @@
-# My-Open-Project
-There are my open projects.
+# My_Open_Project
+This is a simple project.
